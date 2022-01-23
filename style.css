@@ -17,3 +17,7 @@ body{
   margin-left: 350px;
   margin-bottom: -40px;
 }
+
+.equal-height{
+  height: 400px
+}
