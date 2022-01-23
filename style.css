@@ -12,3 +12,8 @@ body{
 .package-select{
   background-color: #3F87F5 ;
 }
+
+.toast-right{
+  margin-left: 350px;
+  margin-bottom: -40px;
+}
